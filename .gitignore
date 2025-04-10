@@ -175,3 +175,5 @@ cython_debug/
 
 # Dev Files
 *-dev
+
+.web/
